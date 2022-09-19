@@ -14,7 +14,7 @@ No curso usamos o dataset fashion_mnist que está organizado dentro do Keras.
 
 ## Referências:
 
-`Professor do módulo:`
+`Professora do módulo:`
 
 ``Cássia Sampaio``
 
